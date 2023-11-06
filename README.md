@@ -16,4 +16,15 @@ Please follow the steps below before running the script
 ### Domain Generalization
 ```bash
 # PACS | Demix Loss
-bash dg_demix.sh 
+bash dg_demix.sh
+```
+
+## Bibtex
+```@inproceedings{jing2023order,
+title={Order-preserving Consistency Regularization for Domain Adaptation and Generalization},
+author={Jing, Mengmeng and Zhen, Xiantong and Li, Jingjing and Snoek, Cees GM},
+booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+pages={18916--18927},
+year={2023}
+}
+```
